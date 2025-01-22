@@ -51,7 +51,7 @@ Before diving into the analysis, I performed several **data cleaning** steps to 
 - **Aircraft Type Distribution**: Visualizes the percentage of strikes involving large vs. small aircraft.
 
 ### **Page 2: Bird Strikes by Flight Phase & Weather Conditions**  
-![Flight Phase & Weather](https://github.com/AvinashAnalytics/Bird-Strike-Data-Visualization-2000-2011/blob/main/reports/Dashboard_Images/Dashboard_Report-2.png)  
+![Flight Phase & Weather](https://github.com/AvinashAnalytics/Bird-Strike-Data-Visualization-2000-2011/blob/main/reports/Dashboard_Images/Dashboard_Report-3.png)  
 - **Flight Phase Analysis**: Shows the distribution of bird strikes during takeoff, landing, and other flight phases.
 - **Weather Conditions**: A breakdown of bird strikes by weather condition (e.g., rain, fog, snow).
 
