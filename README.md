@@ -39,27 +39,6 @@ Before diving into the analysis, I performed several **data cleaning** steps to 
 
 ### **7. Total Number of People Injured**
 - **21 injuries** were recorded due to bird strikes over the study period. This number is relatively low but indicates the importance of continuing to refine safety procedures.
-
----
-
-## **Key Visualizations: Power BI Dashboards**
-
-### **Page 1: Yearly Bird Strike Trends (2000-2011)**  
-![Yearly Bird Strike Trends](https://github.com/AvinashAnalytics/Bird-Strike-Data-Visualization-2000-2011/blob/main/reports/Dashboard_Images/Dashboard_Report-2.png)  
-- **Total Bird Strikes per Year**: Highlights high-impact years, including years with the most frequent bird strikes.
-- **Financial Impact**: Represents the cumulative costs incurred by bird strikes over the years.
-- **Aircraft Type Distribution**: Visualizes the percentage of strikes involving large vs. small aircraft.
-
-### **Page 2: Bird Strikes by Flight Phase & Weather Conditions**  
-![Flight Phase & Weather](https://github.com/AvinashAnalytics/Bird-Strike-Data-Visualization-2000-2011/blob/main/reports/Dashboard_Images/Dashboard_Report-3.png)  
-- **Flight Phase Analysis**: Shows the distribution of bird strikes during takeoff, landing, and other flight phases.
-- **Weather Conditions**: A breakdown of bird strikes by weather condition (e.g., rain, fog, snow).
-
-### **Page 3: Bird Strike Mitigation & Species Analysis**  
-![Species Analysis & Wildlife Management](https://github.com/AvinashAnalytics/Bird-Strike-Data-Visualization-2000-2011/blob/main/reports/Dashboard_Images/Dashboard_Report-4.png)  
-- **Wildlife Remains Collection Effectiveness**: Shows the collection rates of wildlife remains.
-- **Top Species Involved**: A detailed breakdown of the species most commonly involved in bird strikes.
-
 ---
 
 ## **Key Performance Indicators (KPIs):**
