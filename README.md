@@ -52,23 +52,7 @@ To measure the success of bird strike mitigation efforts, I tracked the followin
    
 3. **Financial Impact**: The **financial cost** of bird strikes—including aircraft damage, repairs, and delays—was tracked to assess the economic burden of these incidents on airlines and the aviation industry at large. Understanding this impact helps make a case for further investments in bird strike prevention strategies.
 
----
 
-## **Visualizing the Data:**
-To bring the data to life, I created **three powerful dashboards** in **Power BI**, each designed to offer an interactive and dynamic view of bird strike data:
-
-1. **Dashboard 1: Species Analysis & Identification**
-   - This dashboard highlights the breakdown of bird species involved in strikes, with a particular focus on the **"Unknown Bird"** category, allowing users to explore trends in species identification.
-
-2. **Dashboard 2: Weather and Flight Phase Impact**
-   - This dashboard visualizes the correlation between **weather conditions** (like rain and snow) and the frequency of bird strikes. It also displays the phase of flight during which strikes are most likely to occur, helping to pinpoint critical moments for preventive action.
-
-3. **Dashboard 3: Aircraft Size & Financial Impact**
-   - A breakdown of bird strikes by **aircraft size**, paired with a comprehensive view of the **financial costs** of these incidents, providing a direct comparison between small and large aircraft and the financial implications of bird strikes.
-
-These dashboards make the data not only easier to understand but also more accessible, empowering aviation professionals to make data-driven decisions to improve safety and reduce bird strike risks.
-
----
 
 ## **Conclusion:**
 This in-depth analysis of bird strikes between **2000 and 2011** offers critical insights into the underlying causes of these incidents. The data highlights key patterns, such as species involvement, weather conditions, and aircraft size—each of which plays a significant role in determining the frequency and severity of bird strikes. 
